@@ -1,0 +1,13 @@
+# Execute File #
+################
+*
+!*/
+!*.*
+
+# Configuration #
+#################
+.vscode
+.DS_Store
+
+
+
